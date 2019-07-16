@@ -4,7 +4,7 @@ Todos os links aqui descritos servem para estudo e utilização, aqui você enco
 Linux:
 --------
 > - [Scripts `.sh` de exemplos para adaptação e uso](scripts)
-> - [Guia de utilização do GitHub pelo Terminal Linux](Guia%20-%20Git%20Terminal%20Linux.md)
+> - [Guia de utilização do GitHub pelo Terminal Linux (Básico)](Guia%20-%20Git%20Terminal%20Linux.md)
 
 Links de apoio
 --------
@@ -14,8 +14,8 @@ Links de apoio
 > - https://www.design-seeds.com/ - Paletas criadas a partir de fotos
 
 **Hospedagem de Scripts**
-> - https://rawgit.com/ - libere seu arquivo .css ou .js para uso externo, exemplo:
-> - https://rawgit.com/jimmyfilips/banco/master/css/universal.css - css padrao para tutoriais
+> - [offline] https://rawgit.com/ - libere seu arquivo .css ou .js para uso externo, exemplo:
+> - [offline] https://rawgit.com/jimmyfilips/banco/master/css/universal.css - css padrao para tutoriais
 
 **Icones SVG Free**
 > - Interface: <https://themify.me/themify-icons>
