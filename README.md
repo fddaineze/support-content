@@ -40,6 +40,7 @@ JS/jQuery APIs
 
 **Carousel**
 > - Owl Carousel 2 (completo): <https://owlcarousel2.github.io/OwlCarousel2/>
+> - Slick (completo/recomendado): <https://kenwheeler.github.io/slick/>
 > - Swiper Carousel (best): <http://idangero.us/swiper/>
 > - Sly (versátil/completo): <http://darsa.in/sly/>
 > - BxSlider (Minimalista): <https://bxslider.com>
