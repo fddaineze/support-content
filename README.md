@@ -2,7 +2,6 @@
 ![GitHub stars](https://img.shields.io/github/stars/fddaineze/support-content.svg)
 ![GitHub forks](https://img.shields.io/github/forks/fddaineze/support-content.svg)
 ![commits badge](https://badgen.net/github/commits/fddaineze/support-content)
-![license badge](https://badgen.net/github/license/fddaineze/support-content)
 
 # Conteúdo de Apoio
 Encontre sites para busca de imagens e ilustrações, ferramentas, dicas básicas de shell (scripts linux), e muito mais 
