@@ -1,13 +1,14 @@
 ![last commit badge](https://badgen.net/github/last-commit/fddaineze/support-content) ![commits badge](https://badgen.net/github/commits/fddaineze/support-content) ![license badge](https://badgen.net/github/license/fddaineze/support-content)
 
 # Conteúdo de Apoio
+Encontre sites para busca de imagens e ilustrações, ferramentas, dicas básicas de shell (scripts linux), e muito mais 
 
 Linux:
 --------
 > - [Scripts `.sh` de exemplos para adaptação e uso](scripts)
 > - [Guia de utilização do GitHub pelo Terminal Linux (Básico)](Guia%20-%20Git%20Terminal%20Linux.md)
 
-Links de apoio
+Links
 --------
 **Design e seleção de cores**
 > - https://cssgradient.io/ - Criação de código CSS Gradiente
