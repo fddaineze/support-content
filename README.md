@@ -1,7 +1,6 @@
 ![last commit badge](https://badgen.net/github/last-commit/fddaineze/support-content) ![commits badge](https://badgen.net/github/commits/fddaineze/support-content) ![license badge](https://badgen.net/github/license/fddaineze/support-content)
 
 # Conteúdo de Apoio
-Todos os links aqui descritos servem para estudo e utilização, aqui você encontra tutoriais, exemplos de script, sites de apoio, API's e diversas outras informações úteis
 
 Linux:
 --------
