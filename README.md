@@ -25,6 +25,7 @@ Links
 **Código**
 > - https://devhints.io/ - Lembrar todas as sintaxes é quase impossível, esse site entra neste ponto.
 > - Experimente ver o css flexbox: https://devhints.io/css-flexbox
+> - https://carbon.now.sh/ - Cria imagens com trechos de código, ótimo para publicações
 
 **Icones SVG Free**
 > - Variados: https://icons8.com.br/
