@@ -11,19 +11,36 @@ Linux:
 Links de apoio
 --------
 **Design e seleção de cores**
+> - https://cssgradient.io/ - Criação de código CSS Gradiente
+> - https://www.sessions.edu/color-calculator/ - Calculadora de cores com base em espectro
 > - https://color.adobe.com/ - Montagem de paleta de cores
-> - https://dribbble.com/ - Exemplos de paletas a partir de trabalhos prontos
+> - https://dribbble.com/ - Designs e paletas
+> - https://colorhunt.co/ - Dicas de paletas 
 > - https://www.design-seeds.com/ - Paletas criadas a partir de fotos
 
-**Hospedagem de Scripts**
-> - [offline] https://rawgit.com/ - libere seu arquivo .css ou .js para uso externo, exemplo:
-> - [offline] https://rawgit.com/jimmyfilips/banco/master/css/universal.css - css padrao para tutoriais
+**Compatibilidade**
+> - https://caniuse.com/ - Verifique em quais navegadores o elemento css que pretende usar funciona
+> - http://autoprefixer.github.io/ - Saber utilizar o CSS é bom, mas não precisa decorar todos os prefixos
+
+**Código**
+> - https://devhints.io/ - Lembrar todas as sintaxes é quase impossível, esse site entra neste ponto.
+> - Experimente ver o css flexbox: https://devhints.io/css-flexbox
 
 **Icones SVG Free**
+> - Variados: https://icons8.com.br/
 > - Interface: <https://themify.me/themify-icons>
 > - Developer: <http://konpa.github.io/devicon/>
 > - Vetores: <https://www.svgrepo.com>
 > - FontAwesome: <https://fontawesome.com/>
+
+**Ilustrações**
+> - Templates e fotos: https://www.freepik.com/
+> - Ilustrações com cores editáveis: https://undraw.co/illustrations
+> - Ilustrações com cores editáveis: https://www.manypixels.co/gallery/
+> - Ilustrações em SVG: https://illlustrations.co/
+> - Ilustrações variadas (png): https://icons8.com/illustrations
+> - Este precisa de carinho ao usar, muita coisa se pode aproveitar pronta, mas se souber usar corretamente,
+> - é possível obter resultados incríveis com poucos cliques no illustrator: https://iradesign.io/
 
 JS/jQuery APIs
 --------
